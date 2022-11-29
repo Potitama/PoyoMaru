@@ -1,0 +1,26 @@
+@media (max-width: 767px) {
+    .human-sentences p {
+        font-size: 16px;
+        font-weight: bold;
+    }
+
+    img {
+        width: 287px;
+        height: 426px;
+    }
+}
+
+@media (max-width: 1023px) {
+    .human-section {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .section-2 {
+        flex-direction: column-reverse;
+    }
+
+    img {
+        margin: 0 auto;
+    }
+}
