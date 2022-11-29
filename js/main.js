@@ -19,7 +19,7 @@ if (windowWidth <= windowSm) {
 					"width":0,
 				},
 				"image":{
-					"src":"C:/Users/liste/Desktop/サイト集/ぽよまるサイト/html/png/himawari.png",//【重要】画像を指定！桜の画像を設定してください。
+					"src":"./png/himawari.png",
 					"width":120,
 					"height":120
 				}
@@ -96,7 +96,7 @@ if (windowWidth <= windowSm) {
 					"width":0,
 				},
 				"image":{
-					"src":"C:/Users/liste/Desktop/サイト集/ぽよまるサイト/html/png/himawari.png",//【重要】画像を指定！桜の画像を設定してください。
+					"src":"./png/himawari.png",
 					"width":120,
 					"height":120
 				}
