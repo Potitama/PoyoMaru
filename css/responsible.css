@@ -8,9 +8,14 @@
         width: 287px;
         height: 426px;
     }
-    
+ 
     .title-area {
-    margin-top: 25vh;
+        margin-top: 20vh;
+        }
+
+    .sun {
+        height: 150px;
+        width: 150px;
     }
 }
 
@@ -29,8 +34,15 @@
     }
 }
 
+@media (min-width: 768px) {
+    iframe {
+        height: 650px;
+    }
+}
+
 @media (min-width: 1024px) {
     .title-area {
         font-size: 90px;
     }
 }
+
